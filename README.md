@@ -6,7 +6,7 @@ This is our senior design project Academic Pathway Companion where we are workin
 - [Gianelli Lagos]
 - [Ria Konar]
 - [Aishwarya Balaji]
-- [Maya Patel]
+- [Maya Patel](https://github.com/mpate154)
 
 ## Running front-end
 1. cd into frontend folder
