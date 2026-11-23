@@ -7,3 +7,8 @@ This is our senior design project Academic Pathway Companion where we are workin
 - [Ria Konar]
 - [Aishwarya Balaji]
 - [Maya Patel]
+
+## Running front-end
+1. cd into frontend folder
+2. run
+`npm run start`
