@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env files (secrets)
+.env
+.env.*
+!.env.example
+
+# Python (for the backend)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data you don't want in git
+data/uploads/
+
+# Front end node modules 
+node_modules/
