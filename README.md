@@ -3,7 +3,7 @@ This is our senior design project Academic Pathway Companion where we are workin
 ## Contributers
 
 - [Heta Patel](https://github.com/HetaPatel6105)
-- [Gianelli Lagos]
+- [Gianelli Lagos](https://github.com/gianelli-lagos)
 - [Ria Konar]
 - [Aishwarya Balaji]
 - [Maya Patel](https://github.com/mpate154)
