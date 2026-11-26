@@ -1,3 +1,5 @@
+// this is where global layout styles go (affect all pages, (pages) and (auth))
+
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
