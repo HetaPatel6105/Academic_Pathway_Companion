@@ -4,7 +4,7 @@ This is our senior design project Academic Pathway Companion where we are workin
 
 - [Heta Patel](https://github.com/HetaPatel6105)
 - [Gianelli Lagos](https://github.com/gianelli-lagos)
-- [Ria Konar]
+- [Ria Konar](https://github.com/riak4444)
 - [Aishwarya Balaji]
 - [Maya Patel](https://github.com/mpate154)
 
